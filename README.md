@@ -162,6 +162,16 @@ Microservices architecture
 
 ✅ Security best practices
 
+## Frontend Note
+
+A basic frontend UI was developed to demonstrate authentication and task CRUD functionality.
+Due to the backend-focused nature of this assignment, the frontend code is not included in this repository.
+
+A complete working demo is provided via video:
+https://youtu.be/dqS34amKjKo
+
+Frontend source code can be shared upon request.
+
 👨‍💻 Author
 
 Afroze Ali
